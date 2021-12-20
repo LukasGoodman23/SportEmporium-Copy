@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+test2(1).apk filter=lfs diff=lfs merge=lfs -text
+test2.apk filter=lfs diff=lfs merge=lfs -text
+test3.apk filter=lfs diff=lfs merge=lfs -text
+test4.apk filter=lfs diff=lfs merge=lfs -text
+Test5.apk filter=lfs diff=lfs merge=lfs -text
+test.apk filter=lfs diff=lfs merge=lfs -text
