@@ -2,6 +2,10 @@
 Sports Emporium ReadMe
 --------------------------------------------------------------------------------------------------
 Welcome, Sports Emporium is a game that features two functional sports available to play within VR.
+
+The presentation loom link, Github link, and Google Drive Link are all included in the Links.txt file. If the project does not run from Github, Google Drive should work.
+
+
 To start you will spawn in the hub.
 
 IMPORTANT: When grabbing objects make sure you press the middle finger button, which is on the inside of the VR 
